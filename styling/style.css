@@ -1,0 +1,11 @@
+#logo{
+    width: 2rem;
+    height: 2rem;
+}
+
+p#logotxt {
+    padding-top: 16px;
+}
+.nav-link{
+    float: right;
+}
