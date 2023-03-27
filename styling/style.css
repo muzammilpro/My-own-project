@@ -5,7 +5,37 @@
 
 p#logotxt {
     padding-top: 16px;
+    color: aliceblue;
 }
-.nav-link{
-    float: right;
+#card1{
+    width: 50%;
+    height: 30%;
+    margin-left: 126px
+
+    
+}
+#h3{
+    color: aliceblue;
+}
+#card2{
+    padding: 40px;
+}
+#img1{
+    width: 83px;
+    height: 40px;
+    padding-left: 30px;
+}
+#img2{
+    width: 83px;
+    height: 40px;
+    padding-left: 30px;
+}
+#img3{
+    width: 83px;
+    height: 40px;
+    padding-left: 30px;
+
+}
+.card-body {
+    padding-left: 121px;
 }
