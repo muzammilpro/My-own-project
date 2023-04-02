@@ -42,3 +42,13 @@ p#logotxt {
 .pcontainer{
     padding: 30px;
 }
+#istockpic{
+    
+    width: 260px;
+    padding: 20px;
+    margin-left: 166px
+    
+}
+.istockpicbg{
+    padding: 60px;
+}
