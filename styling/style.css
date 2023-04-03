@@ -52,3 +52,56 @@ p#logotxt {
 .istockpicbg{
     padding: 60px;
 }
+
+
+/* Card Styling */
+
+.card {
+    
+    max-width: 461px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    border: none;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+#ikpic{
+    width: 121px;
+    border-radius: 127px;
+    margin-left: 160px;
+    
+}  
+#ikpic1{
+    width: 140px;
+    border-radius: 127px;
+    margin-left: 160px;
+    margin-top: 19px
+}  
+.cardcon{
+    padding-top: 30px;
+    padding-left: 187px;
+    padding-right: 100px;
+}
